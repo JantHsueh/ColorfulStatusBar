@@ -1,8 +1,10 @@
-package com.zhy.colorfulstatusbar;
+package com.xuexuan.colorfulstatusbar;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+
+import com.zhy.colorfulstatusbar.R;
 
 public class MainActivity extends AppCompatActivity
 {
@@ -18,7 +20,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         //StatusBarCompat.compat(this, 0xFFFF0000);
-         StatusBarCompat.compat(this);
+//         StatusBarCompat.compat(this);
 
     }
 

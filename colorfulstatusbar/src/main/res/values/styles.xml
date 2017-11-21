@@ -1,6 +1,4 @@
 <resources>
-
-
     <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/primary</item>
@@ -11,8 +9,6 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="@style/BaseAppTheme">
-
-
     </style>
 
 </resources>

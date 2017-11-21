@@ -1,4 +1,4 @@
-package com.zhy.colorfulstatusbar;
+package com.xuexuan.colorfulstatusbar;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
